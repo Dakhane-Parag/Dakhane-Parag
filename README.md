@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="160" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHF5aThydnA3MGxlaDZqYXRzaWcxYzlqcXAxNHE1cjZta3Azazg5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
+<img align="right" height="160" width="370" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHF5aThydnA3MGxlaDZqYXRzaWcxYzlqcXAxNHE1cjZta3Azazg5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
 
 ###
 
