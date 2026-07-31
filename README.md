@@ -14,9 +14,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Houria-hs?style=for-the-badge&logo=github&label=Followers&color=EF93C4" />
-  <img src="https://img.shields.io/github/stars/Houria-hs?style=for-the-badge&logo=github&label=Stars&color=EF93C4" />
-  <img src="https://komarev.com/ghpvc/?username=Houria-hs&style=for-the-badge&color=EF93C4"/>
+  <img src="https://img.shields.io/github/followers/Dakhane-Parag?style=for-the-badge&color=DB7633&label=Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Dakhane-Parag&style=for-the-badge&color=DB7633"/>
 </p>
 
 
@@ -38,7 +37,7 @@
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="160" alt="Cute developer girl" />
+<img width="170" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </td>
 
