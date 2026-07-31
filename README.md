@@ -10,7 +10,9 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=F8BBD0&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=Backend+Developer;AI+Builder;Problem+Solver"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=2800&pause=800&center=true&vCenter=true&width=700&color=DB7633&lines=Backend+Developer;AI+Engineer;System+Designer"/>
+
 </p>
 
 <p align="center">
@@ -81,10 +83,6 @@ To enable the snake animation:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
 <a href="mailto:houriahasbell@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -92,9 +90,14 @@ To enable the snake animation:
 </p>
 
 
-<p align="center" >
-See you in the next commit 
-</p>
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=140&section=footer"/>
+
+<b>{=html}Thanks for visiting! ⭐</b>
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:F3B07A,50:DB7633,100:B65F27"/>
+
 </p>
