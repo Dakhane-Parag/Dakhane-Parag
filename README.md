@@ -1,8 +1,6 @@
 <p align="center">
 
-<picture>{=html} <source media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:F3B07A,50:DB7633,100:B65F27&text=Parag%20Dakhane&fontColor=ffffff&fontSize=50&animation=fadeIn&desc=Backend%20Developer%20|%20AI%20Engineer"/>{=html}<source media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:F3B07A,50:DB7633,100:B65F27&text=Parag%20Dakhane&fontColor=ffffff&fontSize=50&animation=fadeIn&desc=Backend%20Developer%20|%20AI%20Engineer"/>{=html}<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:F3B07A,50:DB7633,100:B65F27&text=Parag%20Dakhane&fontColor=ffffff"/>{=html}</picture>{=html}
+<picture>{=html}<source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:F3B07A,50:DB7633,100:B65F27&text=Parag%20Dakhane&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Backend%20Developer%20%E2%80%A2%20AI%20Engineer"/>{=html}<source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:F7D0AE,50:DB7633,100:B65F27&text=Parag%20Dakhane&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Backend%20Developer%20%E2%80%A2%20AI%20Engineer"/>{=html}<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:F3B07A,50:DB7633,100:B65F27&text=Parag%20Dakhane"/>{=html}</picture>{=html}
 
 </p>
 
@@ -14,17 +12,17 @@ Hey there, I'm Parag Dakhane 👋
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=DB7633&center=true&vCenter=true&width=900&lines=Backend+Developer;AI+Engineer;FastAPI+Developer;Building+AI+Powered+Applications;Open+Source+Enthusiast;Always+Learning+Something+New"/>{=html}
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=2800&pause=800&center=true&vCenter=true&width=700&color=DB7633&lines=Backend+Developer;AI+Engineer;FastAPI+%7C+Python;Building+BrandFlowAI;Building+CodeSageAI;Learning+LangGraph+%26+System+Design"/>{=html}
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/Dakhane-Parag?style=for-the-badge&logo=github&label=Followers&color=DB7633"/>{=html}<img src="https://img.shields.io/github/stars/Dakhane-Parag?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=DB7633"/>{=html}<img src="https://komarev.com/ghpvc/?username=Dakhane-Parag&style=for-the-badge&label=Profile+Views&color=DB7633"/>{=html}
+<img src="https://img.shields.io/github/followers/Dakhane-Parag?style=for-the-badge&color=DB7633&label=Followers"/>{=html}<img src="https://komarev.com/ghpvc/?username=Dakhane-Parag&style=for-the-badge&color=DB7633"/>{=html}
 
 </p>
 
-🚀 About Me
+👨‍💻 About Me
 
 <table>
 
@@ -32,45 +30,27 @@ Hey there, I'm Parag Dakhane 👋
 
 <td width="65%">
 
-👨‍💻 Developer
+🚀 Backend Developer focused on scalable systems.
 
-🔥 Backend Developer & AI Engineer
+🤖 AI Engineer building intelligent applications.
 
-🤖 Building AI-powered software
-
-🚀 Current Projects:
+🔭 Current Projects
 
 BrandFlowAI
 
 CodeSageAI
 
-🌱 Learning:
+🌱 Learning LangGraph and System Design
 
-LangGraph
+💬 Python • FastAPI • AI Agents • LLMs • Backend
 
-System Design
-
-💬 Ask me about:
-
-Python
-
-FastAPI
-
-AI Agents
-
-LLMs
-
-Backend Architecture
-
-📫 Email: paragdakhane28@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/parag-dakhane
+📫 paragdakhane28@gmail.com
 
 </td>
 
 <td width="35%" align="center">
 
-<img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">{=html}
+<img width="170" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>{=html}
 
 </td>
 
@@ -78,19 +58,25 @@ Backend Architecture
 
 </table>
 
-🛠 Tech Stack
+💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs,express,react,nextjs,tailwind,typescript,javascript,mongodb,mysql,postgres,redis,docker,kubernetes,aws,git,github,linux,vscode,postman,figma&perline=8"/>{=html}
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express,react,nextjs,tailwind,typescript,javascript,mongodb,postgres,mysql,redis,docker,kubernetes,aws,git,github,linux,postman,vscode,figma&perline=8"/>{=html}
 
 </p>
+
+🚀 Featured Projects
+
+Project                       Description
+
+BrandFlowAI               AI-powered social media contentautomation platform using FastAPI,Celery, Redis, AWS S3 and LLMs.
 
 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=Dakhane-Parag&ring=DB7633&fire=E58E4A&currStreakLabel=DB7633&sideLabels=DB7633&currStreakNum=DB7633&sideNums=DB7633&dates=F3B07A&border=DB7633"/>{=html}
+<img height="170" src="https://streak-stats.demolab.com?user=Dakhane-Parag&hide_border=true&background=0D1117&ring=DB7633&fire=F3B07A&currStreakLabel=DB7633&sideLabels=F3B07A&currStreakNum=FFFFFF&sideNums=FFFFFF"/>{=html}
 
 </p>
 
@@ -100,25 +86,21 @@ Backend Architecture
 
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dakhane-Parag&bg_color=0D1117&color=F3B07A&line=DB7633&point=F3B07A&area=true&hide_border=true"/>{=html}
+
+</p>
+
 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dakhane-Parag&theme=flat&column=4&margin-w=15&margin-h=15&no-frame=true"/>{=html}
-
-</p>
-
-📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dakhane-Parag&bg_color=ffffff&color=DB7633&line=DB7633&point=E58E4A&area=true&hide_border=true"/>{=html}
+<img src="https://github-profile-trophy.vercel.app/?username=Dakhane-Parag&theme=flat&no-frame=true&column=4"/>{=html}
 
 </p>
 
 🐍 Contribution Snake
-
-Enable this GitHub Action after creating your profile repository.
 
 <p align="center">
 
@@ -126,7 +108,7 @@ Enable this GitHub Action after creating your profile repository.
 
 </p>
 
-🌐 Connect With Me
+🌐 Connect
 
 <p align="center">
 
@@ -136,6 +118,12 @@ Enable this GitHub Action after creating your profile repository.
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:F3B07A,50:DB7633,100:B65F27"/>{=html}
+<b>{=html}Thanks for visiting! ⭐</b>{=html}
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:F3B07A,50:DB7633,100:B65F27"/>{=html}
 
 </p>
