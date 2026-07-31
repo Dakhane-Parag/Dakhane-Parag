@@ -92,7 +92,7 @@ To enable the snake animation:
 
 <p align="center">
 
-<b>{=html}Thanks for visiting! ⭐</b>
+<b>Thanks for visiting! ⭐</b>
 
 </p>
 
