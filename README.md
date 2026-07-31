@@ -1,129 +1,114 @@
 <p align="center">
-
-<picture>{=html}<source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:F3B07A,50:DB7633,100:B65F27&text=Parag%20Dakhane&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Backend%20Developer%20%E2%80%A2%20AI%20Engineer"/>{=html}<source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:F7D0AE,50:DB7633,100:B65F27&text=Parag%20Dakhane&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Backend%20Developer%20%E2%80%A2%20AI%20Engineer"/>{=html}<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:F3B07A,50:DB7633,100:B65F27&text=Parag%20Dakhane"/>{=html}</picture>{=html}
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Houria-hs/Houria-hs/main/art/header-dark.png">
+    <img src="https://raw.githubusercontent.com/Houria-hs/Houria-hs/main/art/header-light.png" alt="Houria Hasbellaoui Banner" width="100%">
+  </picture>
 </p>
 
 <h1 align="center">
-
-Hey there, I'm Parag Dakhane 👋
-
+  Hey there, I'm <span style="color:#EF93C4;">Parag</span>
 </h1>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=2800&pause=800&center=true&vCenter=true&width=700&color=DB7633&lines=Backend+Developer;AI+Engineer;FastAPI+%7C+Python;Building+BrandFlowAI;Building+CodeSageAI;Learning+LangGraph+%26+System+Design"/>{=html}
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=F8BBD0&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Builder;Content+Creator;Open+Source+Enthusiast;Problem+Solver"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/github/followers/Dakhane-Parag?style=for-the-badge&color=DB7633&label=Followers"/>{=html}<img src="https://komarev.com/ghpvc/?username=Dakhane-Parag&style=for-the-badge&color=DB7633"/>{=html}
-
+  <img src="https://img.shields.io/github/followers/Houria-hs?style=for-the-badge&logo=github&label=Followers&color=EF93C4" />
+  <img src="https://img.shields.io/github/stars/Houria-hs?style=for-the-badge&logo=github&label=Stars&color=EF93C4" />
+  <img src="https://komarev.com/ghpvc/?username=Houria-hs&style=for-the-badge&color=EF93C4"/>
 </p>
 
-👨‍💻 About Me
 
-<table>
 
+<h2 align="center">👩‍💻 About Me</h2>
+
+<table align="center">
 <tr>
 
-<td width="65%">
+<td width="65%" valign="top">
 
-🚀 Backend Developer focused on scalable systems.
-
-🤖 AI Engineer building intelligent applications.
-
-🔭 Current Projects
-
-BrandFlowAI
-
-CodeSageAI
-
-🌱 Learning LangGraph and System Design
-
-💬 Python • FastAPI • AI Agents • LLMs • Backend
-
-📫 paragdakhane28@gmail.com
-
+- 💻 Full Stack Developer passionate about building modern web apps.
+- 🌱 Currently learning System Design.
+- 🚀 Building AI-powered projects.
+- 🎯 Goal: Create products that solve real-world problems.
+- 🌌 Passionate about AI, astronomy, and building things that matter.
+- ✨ Always chasing the next idea worth building.
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="middle">
 
-<img width="170" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>{=html}
+<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="160" alt="Cute developer girl" />
 
 </td>
 
 </tr>
-
 </table>
 
-💻 Tech Stack
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,postgres,mongodb,tailwind,git,github,docker,vscode,figma,git,github,vscode,figma,postman,linux,bash,npm,pnpm,yarn&perline=16"/>
+</p>
+
+
+<h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express,react,nextjs,tailwind,typescript,javascript,mongodb,postgres,mysql,redis,docker,kubernetes,aws,git,github,linux,postman,vscode,figma&perline=8"/>{=html}
+<img src="https://streak-stats.demolab.com?user=Houria-hs&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 
 </p>
 
-🚀 Featured Projects
 
-Project                       Description
-
-BrandFlowAI               AI-powered social media contentautomation platform using FastAPI,Celery, Redis, AWS S3 and LLMs.
-
-📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=Dakhane-Parag&hide_border=true&background=0D1117&ring=DB7633&fire=F3B07A&currStreakLabel=DB7633&sideLabels=F3B07A&currStreakNum=FFFFFF&sideNums=FFFFFF"/>{=html}
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Houria-hs&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
 
 </p>
 
+
+
+<h2 align="center"> 🐍 Contribution Graph </h2>
+
+<p align="center">
+  <img src="https://github.com/Houria-hs/Houria-hs/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+<!--
+To enable the snake animation:
+
+1. Create a GitHub Action in this repository.
+2. Use Platane/snk to generate the SVG every day.
+3. Commit the generated file into:
+   output/github-contribution-grid-snake.svg
+-->
+
+
+<h2 align="center">🌐 Let's Connect</h2>
+
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dakhane-Parag&show_icons=true&hide_border=true&title_color=DB7633&icon_color=DB7633"/>{=html}<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakhane-Parag&layout=compact&hide_border=true&title_color=DB7633"/>{=html}
+<a href="https://linkedin.com/in/houria-hasbellaoui">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@hourycodes">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="mailto:houriahasbell@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
-<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dakhane-Parag&bg_color=0D1117&color=F3B07A&line=DB7633&point=F3B07A&area=true&hide_border=true"/>{=html}
-
+<p align="center" >
+See you in the next commit 
 </p>
-
-🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dakhane-Parag&theme=flat&no-frame=true&column=4"/>{=html}
-
-</p>
-
-🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Dakhane-Parag/Dakhane-Parag/output/github-contribution-grid-snake.svg"/>{=html}
-
-</p>
-
-🌐 Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/parag-dakhane">{=html}<img src="https://img.shields.io/badge/LinkedIn-DB7633?style=for-the-badge&logo=linkedin&logoColor=white"/>{=html}</a>{=html}<a href="mailto:paragdakhane28@gmail.com">{=html}<img src="https://img.shields.io/badge/Gmail-DB7633?style=for-the-badge&logo=gmail&logoColor=white"/>{=html}</a>{=html}
-
-</p>
-
-<p align="center">
-
-<b>{=html}Thanks for visiting! ⭐</b>{=html}
-
-</p>
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:F3B07A,50:DB7633,100:B65F27"/>{=html}
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=140&section=footer"/>
 </p>
