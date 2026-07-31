@@ -56,15 +56,19 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Houria-hs&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+<img height="170" src="https://streak-stats.demolab.com?user=Dakhane-Parag&hide_border=true&background=0D1117&ring=DB7633&fire=F3B07A&currStreakLabel=DB7633&sideLabels=F3B07A&currStreakNum=FFFFFF&sideNums=FFFFFF"/>{=html}
 
 </p>
 
+<p align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dakhane-Parag&show_icons=true&hide_border=true&title_color=DB7633&icon_color=DB7633"/>{=html}<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakhane-Parag&layout=compact&hide_border=true&title_color=DB7633"/>{=html}
+
+</p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Houria-hs&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DakhaneParag&bg_color=0D1117&color=F3B07A&line=DB7633&point=F3B07A&area=true&hide_border=true"/>
 
 </p>
 
@@ -73,7 +77,9 @@
 <h2 align="center"> 🐍 Contribution Graph </h2>
 
 <p align="center">
-  <img src="https://github.com/Houria-hs/Houria-hs/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+
+<img src="https://raw.githubusercontent.com/Dakhane-Parag/Dakhane-Parag/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 <!--
@@ -90,11 +96,11 @@ To enable the snake animation:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/houria-hasbellaoui">
+<a href="https://www.linkedin.com/in/parag-dakhane">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.tiktok.com/@hourycodes">
+<a href="">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
