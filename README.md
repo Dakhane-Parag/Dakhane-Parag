@@ -4,59 +4,71 @@
 <!-- ========================================================= -->
 
 <p align="center">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-   <img alt="Logo for Parag Dakhane" src="art/header-light.png">
-</picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:F3B07A,50:DB7633,100:B65F27&text=Welcome!&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Backend%20Developer%20•%20AI%20Engineer%20•%20Open%20Source&descAlignY=58"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:F3B07A,50:DB7633,100:B65F27&text=Welcome!&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Backend%20Developer%20•%20AI%20Engineer%20•%20Open%20Source&descAlignY=58"
+    />
+    <img
+      width="100%"
+      src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:F3B07A,50:DB7633,100:B65F27&text=Welcome!&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"
+    />
+  </picture>
 </p>
 
 <h1 align="center">
-   Hey there, I'm <b>Parag Dakhane</b> 👋
+  Hey there, I'm <b>[YOUR_NAME]</b> 👋
 </h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Backend+Developer;AI+Engineer;FastAPI+%7C+Python+Developer;Building+Scalable+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&color=DB7633&lines=Backend+Developer;AI+Engineer;FastAPI+%7C+Python+Developer;Building+Scalable+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?style=for-the-badge&logo=github&label=Followers&color=FF69B4" />
-  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=EF93C4" />
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=for-the-badge&color=FF69B4&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?style=for-the-badge&logo=github&label=Followers&color=DB7633" />
+  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=DB7633" />
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=for-the-badge&color=DB7633&label=Profile+Views" />
 </p>
 
 ---
 
-# 💖 About Me
+# 🧑‍💻 About Me
 
 <table>
 <tr>
 
 <td width="65%" valign="top">
 
-### ✨ Who Am I?
+### 👋 Who Am I?
 
-- 🚀 Backend Developer passionate about building scalable applications
-- 🤖 Exploring Artificial Intelligence & LLM Applications
+- 🚀 Backend Developer passionate about scalable systems
+- 🤖 AI & LLM enthusiast
 - 🌱 Currently learning **[CURRENT_TECH]**
-- 💼 Open to internships, collaborations & exciting opportunities
-- 🎯 2026 Goal: **[YOUR_GOAL]**
+- 💼 Open to internships & collaborations
+- 💡 Love solving engineering problems
+- ☕ Coffee + Music + Coding
+- 🎯 Goal: **[YOUR_GOAL]**
 
-### 🌸 Quick Facts
+### 📌 Quick Facts
 
 - 🔭 Working on: **[CURRENT_PROJECT]**
-- 📚 Learning: **LangChain**
+- 📚 Learning: **[TECH_TO_LEARN]**
 - 💬 Ask me about:
   - Python
   - FastAPI
   - AI
-  - System Design
   - Backend Development
+  - System Design
 
-- 📫 Reach me:
-  **paragdakhane28@gmail.com**
+- 📫 Email:
+  **[YOUR_EMAIL]**
 
 </td>
 
@@ -74,11 +86,11 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
 
 ---
 
-# 🛠 Tech Stack
+# ⚒️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,tailwind,mongodb,mysql,redis,docker,aws,git,github,linux,postman&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs,express,react,nextjs,tailwind,typescript,javascript,mongodb,mysql,postgres,redis,docker,kubernetes,aws,git,github,linux,vscode,postman,figma&perline=8"/>
 
 </p>
 
@@ -90,7 +102,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
 
 <img
 height="170"
-src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=default&ring=FF69B4&fire=EF93C4&currStreakLabel=FF69B4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=F8BBD0&border=FF69B4"
+src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=default&ring=DB7633&fire=E58E4A&currStreakLabel=DB7633&sideLabels=DB7633&currStreakNum=DB7633&sideNums=DB7633&dates=F3B07A&border=DB7633"
 />
 
 </p>
@@ -99,12 +111,12 @@ src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=default&ring=FF
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&hide_border=true&rank_icon=github&title_color=FF69B4&icon_color=EF93C4&text_color=666666&bg_color=ffffff"
+src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&hide_border=true&rank_icon=github&title_color=DB7633&icon_color=E58E4A&text_color=666666&bg_color=ffffff"
 />
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakhane-Parag&layout=compact&hide_border=true&title_color=FF69B4&text_color=666666&bg_color=ffffff"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&hide_border=true&title_color=DB7633&text_color=666666&bg_color=ffffff"
 />
 
 </p>
@@ -117,7 +129,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakhane-Para
 
 <img
 width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=ffffff&color=FF69B4&line=EF93C4&point=FF69B4&area=true&hide_border=true&area_color=F8BBD0"
+src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=ffffff&color=DB7633&line=DB7633&point=E58E4A&area=true&hide_border=true&area_color=F3B07A"
 />
 
 </p>
@@ -135,9 +147,7 @@ alt="Snake animation"
 
 </p>
 
-> **GitHub Action (place inside `.github/workflows/snake.yml`)**
->
-> Generates the contribution snake automatically.
+> **GitHub Action:** Add a workflow in `.github/workflows/snake.yml` to automatically generate the contribution snake.
 
 ---
 
@@ -146,11 +156,27 @@ alt="Snake animation"
 <p align="center">
 
 <a href="[YOUR_LINKEDIN]">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-DB7633?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="[YOUR_X]">
+<img src="https://img.shields.io/badge/X-DB7633?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="[YOUR_INSTAGRAM]">
+<img src="https://img.shields.io/badge/Instagram-DB7633?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="[YOUR_TIKTOK]">
+<img src="https://img.shields.io/badge/TikTok-DB7633?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="[YOUR_YOUTUBE]">
+<img src="https://img.shields.io/badge/YouTube-DB7633?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="mailto:[YOUR_EMAIL]">
-<img src="https://img.shields.io/badge/Email-EF93C4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-DB7633?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -160,7 +186,7 @@ alt="Snake animation"
 <p align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:F8BBD0,50:EF93C4,100:FF69B4"
+src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:F3B07A,50:DB7633,100:B65F27"
 />
 
 </p>
