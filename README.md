@@ -1,21 +1,176 @@
-# 💫 About Me:
-👋 Hey, I’m Parag — a Computer Engineering student who enjoys building and breaking things 🧑‍💻<br>💻 Mostly into backend & full-stack development, APIs, and how systems work under the hood<br>⚙️ I play around with Node.js, databases, Docker, and whatever helps ship better projects<br>🧠 Also grinding DSA, core CS subjects, and trying to think like a real engineer<br>🚀 Learning by building real projects, making mistakes, and fixing them again<br>🎧 Curious mind, late-night coding, and always up for learning something new ✨
+<!-- ========================================================= -->
+<!--                  GITHUB PROFILE README                    -->
+<!--          Replace all placeholders before using            -->
+<!-- ========================================================= -->
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:FF69B4,50:EF93C4,100:F8BBD0&text=Welcome!&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Backend%20Developer%20•%20AI%20Engineer%20•%20Open%20Source&descAlignY=58"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:F8BBD0,50:EF93C4,100:FF69B4&text=Welcome!&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Backend%20Developer%20•%20AI%20Engineer%20•%20Open%20Source&descAlignY=58"
+    />
+    <img
+      width="100%"
+      src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:EF93C4,50:FF69B4,100:F8BBD0&text=Welcome!&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"
+    />
+  </picture>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parag-dakhane-77a271263) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paragdakhane@outlook.com) 
+<h1 align="center">
+   Hey there, I'm <b>Parag Dakhane</b> 👋
+</h1>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dakhane-Parag&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dakhane-Parag&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dakhane-Parag&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Backend+Developer;AI+Engineer;FastAPI+%7C+Python+Developer;Building+Scalable+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies"
+    alt="Typing SVG"
+  />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?style=for-the-badge&logo=github&label=Followers&color=FF69B4" />
+  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=EF93C4" />
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=for-the-badge&color=FF69B4&label=Profile+Views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dakhane-Parag&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💖 About Me
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+### ✨ Who Am I?
+
+- 🚀 Backend Developer passionate about building scalable applications
+- 🤖 Exploring Artificial Intelligence & LLM Applications
+- 🌱 Currently learning **[CURRENT_TECH]**
+- 💼 Open to internships, collaborations & exciting opportunities
+- 🎯 2026 Goal: **[YOUR_GOAL]**
+
+### 🌸 Quick Facts
+
+- 🔭 Working on: **[CURRENT_PROJECT]**
+- 📚 Learning: **LangChain**
+- 💬 Ask me about:
+  - Python
+  - FastAPI
+  - AI
+  - System Design
+  - Backend Development
+
+- 📫 Reach me:
+  **paragdakhane28@gmail.com**
+
+</td>
+
+<td width="35%" align="center">
+
+<img
+width="100%"
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,tailwind,mongodb,mysql,redis,docker,aws,git,github,linux,postman&perline=8"/>
+
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img
+height="170"
+src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=default&ring=FF69B4&fire=EF93C4&currStreakLabel=FF69B4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=F8BBD0&border=FF69B4"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&hide_border=true&rank_icon=github&title_color=FF69B4&icon_color=EF93C4&text_color=666666&bg_color=ffffff"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakhane-Parag&layout=compact&hide_border=true&title_color=FF69B4&text_color=666666&bg_color=ffffff"
+/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=ffffff&color=FF69B4&line=EF93C4&point=FF69B4&area=true&hide_border=true&area_color=F8BBD0"
+/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img
+src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg"
+alt="Snake animation"
+/>
+
+</p>
+
+> **GitHub Action (place inside `.github/workflows/snake.yml`)**
+>
+> Generates the contribution snake automatically.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="[YOUR_LINKEDIN]">
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:[YOUR_EMAIL]">
+<img src="https://img.shields.io/badge/Email-EF93C4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:F8BBD0,50:EF93C4,100:FF69B4"
+/>
+
+</p>
