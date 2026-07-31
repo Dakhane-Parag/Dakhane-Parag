@@ -4,20 +4,10 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:FF69B4,50:EF93C4,100:F8BBD0&text=Welcome!&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Backend%20Developer%20•%20AI%20Engineer%20•%20Open%20Source&descAlignY=58"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:F8BBD0,50:EF93C4,100:FF69B4&text=Welcome!&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Backend%20Developer%20•%20AI%20Engineer%20•%20Open%20Source&descAlignY=58"
-    />
-    <img
-      width="100%"
-      src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:EF93C4,50:FF69B4,100:F8BBD0&text=Welcome!&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"
-    />
-  </picture>
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Parag Dakhane" src="art/header-light.png">
+</picture>
 </p>
 
 <h1 align="center">
