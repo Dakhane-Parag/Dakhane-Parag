@@ -48,7 +48,7 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,postgres,mongodb,tailwind,git,github,docker,vscode,figma,git,github,vscode,figma,postman,linux,bash,npm,pnpm,yarn&perline=16"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,postgres,mongodb,tailwind,git,github,docker,git,github,vscode,postman,linux,langchain,langgraph,java&perline=16"/>
 </p>
 
 
@@ -56,13 +56,13 @@
 
 <p align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=Dakhane-Parag&hide_border=true&background=0D1117&ring=DB7633&fire=F3B07A&currStreakLabel=DB7633&sideLabels=F3B07A&currStreakNum=FFFFFF&sideNums=FFFFFF"/>{=html}
+<img height="170" src="https://streak-stats.demolab.com?user=Dakhane-Parag&hide_border=true&background=0D1117&ring=DB7633&fire=F3B07A&currStreakLabel=DB7633&sideLabels=F3B07A&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dakhane-Parag&show_icons=true&hide_border=true&title_color=DB7633&icon_color=DB7633"/>{=html}<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakhane-Parag&layout=compact&hide_border=true&title_color=DB7633"/>{=html}
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dakhane-Parag&show_icons=true&hide_border=true&title_color=DB7633&icon_color=DB7633"/>{=html}<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakhane-Parag&layout=compact&hide_border=true&title_color=DB7633"/>
 
 </p>
 
@@ -72,15 +72,6 @@
 
 </p>
 
-
-
-<h2 align="center"> 🐍 Contribution Graph </h2>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Dakhane-Parag/Dakhane-Parag/output/github-contribution-grid-snake.svg"/>
-
-</p>
 
 <!--
 To enable the snake animation:
