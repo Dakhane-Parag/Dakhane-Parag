@@ -48,7 +48,7 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,postgres,mongodb,tailwind,git,github,docker,git,github,vscode,postman,linux,langchain,langgraph,java&perline=16"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,tailwind,git,github,docker,postman,linux,java&perline=16"/>
 </p>
 
 
@@ -60,17 +60,7 @@
 
 </p>
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dakhane-Parag&show_icons=true&hide_border=true&title_color=DB7633&icon_color=DB7633"/>{=html}<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakhane-Parag&layout=compact&hide_border=true&title_color=DB7633"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DakhaneParag&bg_color=0D1117&color=F3B07A&line=DB7633&point=F3B07A&area=true&hide_border=true"/>
-
-</p>
 
 
 <!--
